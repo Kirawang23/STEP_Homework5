@@ -12,8 +12,6 @@ import random
 # coordinates = pd.read_csv('input_3.csv')
 # coordinates = pd.read_csv('input_4.csv')
 coordinates = pd.read_csv('input_5.csv')
-# coordinates = pd.read_csv('input_6.csv')
-# coordinates = pd.read_csv('input_7.csv')
 
 w,h = len(coordinates),len(coordinates.columns)
 coordinates = coordinates.values
